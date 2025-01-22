@@ -284,7 +284,6 @@ sulfur mustard,simulant_model,2-Chloroethyl ethyl sulfide
 hydrolysis during organic formulation of organophosphate compounds,organic_organophosphate,Nitrogen bubbling under vaccuum distillation
 mercury fulminate,start_decompose,100 C
 nitric acid,use_dehydrate,Concentrated sulfuric acid
-HMTD,velocity_hmtd,5100 m/s
 trichloroacetonitrileis_byproduct,Tetraazidomethane
 heterocycle,likely_explosive,Tetrazole
 List B chemicals,chemical_dispose,12 months
